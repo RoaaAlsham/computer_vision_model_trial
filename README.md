@@ -14,7 +14,7 @@ example output:
 
 <img width="1654" height="774" alt="2025-12-13 00_04_03-" src="https://github.com/user-attachments/assets/0d3b7817-1f87-412a-ac36-645334be42d8" />
 
--> the output had to indicate that it is a normal (fake) image
+-> the output had to indicate that it is not normal (fake) image
 
 ### result: 
 The model needs more training to distinguish real and fake faces better.
